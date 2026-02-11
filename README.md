@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm G.Mustafa Khizar <br>- 📚 I'm currently learning Machine Learning, and C#,C++, Deep Learning.<br>- ⚡ In my free time I CODE..</p>
+<p align="left">I'm G.Mustafa Khizar <br>- 📚 I'm currently learning Machine Learning, C#,C++, Deep Learning.<br>- ⚡ In my free time I CODE..</p>
 
 ###
 
@@ -77,12 +77,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<!-- <h3 align="left">🔥   My Stats :</h3> -->
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=KhizarDoingProgramming&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+</div> -->
 
 ###
