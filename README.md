@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mustafa-khizar-6445b233b/" target="_blank">
+<a href="https://www.linkedin.com/in/mustafa-khizar/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" />
 </a>
 <a href="https://www.instagram.com/khiizeee/" target="_blank">
@@ -19,7 +19,7 @@
 <a href="https://linktr.ee/khizeee" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="28" />
 </a>
-<a href="https://discord.com/mangoes.__" target="_blank">
+<a href="https://discord.com/khizarwantsmangoes" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" />
 </a>
 
@@ -34,13 +34,12 @@
 ### 🧠 about me
 
 ```yaml
-name: G. Mustafa Khizar
-role: Computer Science Student
-based_in: Lahore, Pakistan 🇵🇰
-currently_learning: [Machine Learning, Deep Learning, C++, C#]
-currently_building: web apps, ML experiments, computer-vision projects
-status: probably debugging something rn 🐛
-fun_fact: "code is my caffeine ☕"
+Name: G. Mustafa Khizar
+Role: Computer Science Student
+Based_in: Islamabad, Pakistan 
+Currently_learning: [Deep Learning, Flutter, App Development]
+Currently_building: web apps, ML experiments, computer-vision projects
+Status: probably debugging something rn 🐛
 ```
 
 - 🎓 CS student — into ML, deep learning, and low-level systems alike
