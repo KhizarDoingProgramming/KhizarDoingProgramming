@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=12&section=header&text=khizeee.dev&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Lahore%2C%20PK&descAlignY=70&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=12&section=header&text=MUSTAFA&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Lahore%2C%20PK&descAlignY=70&descSize=18" width="100%"/>
 
 <a href="https://github.com/KhizarDoingProgramming">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Mustafa+Khizar+%F0%9F%91%8B;ML+enthusiast+%E2%80%A2+full-stack+tinkerer;Shipping+ML+%2B+web+%2B+low-level+code;Currently+compiling+my+thoughts..." alt="Typing SVG" />
