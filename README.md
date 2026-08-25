@@ -307,7 +307,7 @@ Not every project needs a case study. These are smaller, but real — full list 
 
 <br><br>
 
-<img width="100%" src="https://raw.githubusercontent.com/KhizarDoingProgramming/KhizarDoingProgramming/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+<!-- <img width="100%" src="https://raw.githubusercontent.com/KhizarDoingProgramming/KhizarDoingProgramming/output/github-contribution-grid-snake.svg" alt="contribution snake" /> -->
 
 <!-- <sub>animated version of the contribution graph above — runs on a scheduled GitHub Action, see setup note below</sub> -->
 
