@@ -298,8 +298,8 @@ Not every project needs a case study. These are smaller, but real — full list 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KhizarDoingProgramming&show_icons=true&hide_border=true&theme=transparent&title_color=87A96B&icon_color=87A96B&text_color=cfcfc4" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhizarDoingProgramming&layout=compact&hide_border=true&theme=transparent&title_color=87A96B&text_color=cfcfc4" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=KhizarDoingProgramming&show_icons=true&hide_border=true&theme=transparent&title_color=87A96B&icon_color=87A96B&text_color=cfcfc4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhizarDoingProgramming&layout=compact&hide_border=true&theme=transparent&title_color=87A96B&text_color=cfcfc4" /> -->
 
 <br>
 
@@ -309,12 +309,10 @@ Not every project needs a case study. These are smaller, but real — full list 
 
 <img width="100%" src="https://raw.githubusercontent.com/KhizarDoingProgramming/KhizarDoingProgramming/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 
-<sub>animated version of the contribution graph above — runs on a scheduled GitHub Action, see setup note below</sub>
+<!-- <sub>animated version of the contribution graph above — runs on a scheduled GitHub Action, see setup note below</sub> -->
 
 </div>
 
-> [!NOTE]
-> The snake animation needs a one-time GitHub Action added to this repo (`Platane/snk`) that regenerates `output/github-contribution-grid-snake.svg` on a schedule. Until that workflow is added, this image won't render — remove the block above if you'd rather skip it.
 
 <br>
 
