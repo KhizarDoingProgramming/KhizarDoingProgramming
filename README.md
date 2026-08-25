@@ -75,7 +75,7 @@ A few things that describe how I work:
 
 <table>
 <tr>
-<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://kyza.vercel.app&screenshot=true&meta=false&waitFor=5000&embed=screenshot.url" /></td>
+<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://kyza.vercel.app&screenshot=true&meta=false&waitFor=4000&embed=screenshot.url" /></td>
 <td valign="top">
 
 **AI ASSISTANT · ECOSYSTEM**
