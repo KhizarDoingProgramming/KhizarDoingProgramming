@@ -303,8 +303,7 @@ Not every project needs a case study. These are smaller, but real — full list 
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhizarDoingProgramming&hide_border=true&theme=transparent&ring=87A96B&fire=87A96B&currStreakLabel=87A96B" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhizarDoingProgramming&hide_border=true&theme=transparent&ring=87A96B&fire=87A96B&currStreakLabel=87A96B&v=1" />
 <br><br>
 
 <!-- <img width="100%" src="https://raw.githubusercontent.com/KhizarDoingProgramming/KhizarDoingProgramming/output/github-contribution-grid-snake.svg" alt="contribution snake" /> -->
