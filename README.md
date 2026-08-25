@@ -1,160 +1,227 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=12&section=header&text=MUSTAFA&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Islamabad%2C%20PK&descAlignY=70&descSize=18" width="100%"/>
+<br>
 
-<a href="https://github.com/KhizarDoingProgramming">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Mustafa+Khizar+%F0%9F%91%8B;ML+enthusiast+%E2%80%A2+full-stack+tinkerer;Shipping+ML+%2B+web+%2B+low-level+code;Currently+compiling+my+thoughts..." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1200&color=87A96B&center=true&vCenter=true&width=650&lines=FULL-STACK+DEVELOPER;BUILDING+DIGITAL+THINGS;THAT+PEOPLE+CAN+ACTUALLY+USE." alt="Typing SVG" />
 
-</div>
+<br>
 
-<div align="center">
+### MUSTAFA KHIZAR
+`Pakistan · Computer Science · 2026`
 
-<a href="https://www.linkedin.com/in/mustafa-khizar/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" />
-</a>
-<a href="https://www.instagram.com/khiizeee/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" />
-</a>
-<a href="https://linktr.ee/khizeee" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="28" />
-</a>
-<a href="https://discord.com/khizarwantsmangoes" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" />
-</a>
+<br>
 
-<br/>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=KhizarDoingProgramming.KhizarDoingProgramming" alt="visitor badge"/>
+<sub>00 — INTRO · 01 — WHO I AM · 02 — WHAT I BUILD · 03 — FLAGSHIP PROJECTS · 04 — OTHER EXPERIMENTS · 05 — TECH ARSENAL · 06 — CURRENTLY BUILDING · 07 — GITHUB ACTIVITY · 08 — CONNECT</sub>
 
 </div>
 
----
-
-### 🧠 about me
-
-```yaml
-Name: G. Mustafa Khizar
-Role: Computer Science Student
-Based_in: Islamabad, Pakistan 
-Currently_learning: [Deep Learning, Flutter, App Development]
-Currently_building: web apps, ML experiments, computer-vision projects
-Status: probably debugging something rn 🐛
-```
-
-- 🎓 CS student — into ML, deep learning, and low-level systems alike
-- 🛠️ I ship full projects, not just snippets — e-commerce platforms, real-time CV apps, the whole stack
-- 🧪 Currently exploring real-time hand-tracking + shader-based web visuals (Three.js / MediaPipe)
-- 🌱 Always learning something new — this week it's probably a new ML algorithm
-- ⚡ Free time = code time
+<br>
 
 ---
 
-### 🛠️ tech stack
+<br>
+
+## `01 /` WHO I AM
+
+I'm Mustafa Khizar — a Computer Science student and full-stack developer who likes turning ideas into real, usable software. Most of what's below started as "what if I built this" and turned into something that actually runs.
+
+I move across the stack rather than staying in one lane: React and Next.js on the frontend, Node.js and PHP on the backend, C++ when I want to get closer to the machine, and Python when a problem calls for machine learning. I'm not chasing one label — I'd rather be someone who ships working things than someone with a tidy job title.
+
+A few things that describe how I work:
+
+- I finish projects to something usable, not just to "it compiles"
+- I care about real-time systems and interfaces that feel alive, not static
+- I experiment with AI/ML as a tool in the kit, not the whole identity
+- I'll go from a MySQL schema to a WebGL shader in the same week if the project needs it
+
+<br>
+
+---
+
+<br>
+
+## `02 /` WHAT I BUILD
+
+<table>
+<tr>
+<td width="25%" valign="top"><b>PRODUCTS</b></td>
+<td>Full applications with a front door — an interface someone else can open and use, not just a script that runs on my machine.</td>
+</tr>
+<tr>
+<td valign="top"><b>REAL-TIME SYSTEMS</b></td>
+<td>Messaging, live state, things that update while you're looking at them.</td>
+</tr>
+<tr>
+<td valign="top"><b>CREATIVE TECHNICAL WORK</b></td>
+<td>WebGL, hand-tracking, interfaces that sit closer to art than utility.</td>
+</tr>
+<tr>
+<td valign="top"><b>AI / ML EXPERIMENTS</b></td>
+<td>Classifiers, predictors, and assistant architecture — a range, not a specialization.</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## `03 /` FLAGSHIP PROJECTS
+
+<br>
+
+### `01 —` KYZA
+**AI ASSISTANT · ECOSYSTEM**
+
+An AI assistant built as the center of a growing product suite rather than a single chatbot. KYZA is the umbrella — underneath it are focused sub-products: **NOVA** for open conversation and ideas, **ATLAS** for reasoning, **HELIX** for code, and **PRISM** for image generation. The visual identity runs on a deliberate palette — warm cream, sage green, muted stone blue, deep charcoal — the same one this README borrows.
+
+`STATUS` **BUILDING**
+
+**[SOURCE ↗](https://github.com/KhizarDoingProgramming)**
+
+<br>
+
+### `02 —` LUNO
+**LANGUAGE LEARNING**
+
+A language-learning concept built around two languages I'm actually interested in — **Russian** and **German** — rather than a generic Duolingo clone. The goal is a learning experience that feels designed, not a form with flashcards bolted on.
+
+`STATUS` **BUILDING**
+
+**[SOURCE ↗](https://github.com/KhizarDoingProgramming)**
+
+<br>
+
+### `03 —` MCONNECT
+**REAL-TIME MESSAGING**
+
+A TypeScript-based real-time messaging platform, built with modular architecture and deliberate frontend state management in mind — designed to scale past a toy chat app.
+
+`STACK` TypeScript · Real-time architecture · Modular frontend state
+
+`STATUS` **LIVE**
+
+**[VIEW LIVE ↗](https://mconnectweb.vercel.app)** &nbsp;·&nbsp; **[SOURCE ↗](https://github.com/KhizarDoingProgramming/MConnect)**
+
+<br>
+
+### `04 —` MSTFA
+**PERSONAL AI ECOSYSTEM**
+
+A personal AI/product ecosystem project — the experimental ground where ideas that might later become part of KYZA get tested first.
+
+`STATUS` **EVOLVING**
+
+**[SOURCE ↗](https://github.com/KhizarDoingProgramming/MSTFA-AI)**
+
+<br>
+
+---
+
+<br>
+
+## `04 /` OTHER EXPERIMENTS
+
+Not every project needs a case study. These are smaller, but real — full list and source lives in the repositories tab.
+
+<details>
+<summary><b>View other builds</b></summary>
+<br>
+
+| PROJECT | WHAT IT IS |
+|---|---|
+| **Holographic Hand Tracking** | WebGL + MediaPipe Hands, self-contained single-file interactive experience |
+| **Muzammil Lace Center** | Full PHP/MySQL e-commerce build for a family business, Pakistani payment methods, cPanel-hosted |
+| **AI Resume Screener** | ML-based resume screening tool |
+| **MustafaMoves** | Movement / logistics-focused application |
+| **CampusBook** | Campus-oriented booking/resource platform |
+| **Banking System (ASM)** | Low-level banking system logic in Assembly |
+| **Mini CPU Simulator** | Simulated CPU architecture, systems-level programming |
+| **Loan Predictor** | ML model predicting loan approval outcomes |
+| **Heart Disease Predictor** | Classification model on medical data |
+| **Spam Email Classifier** | NLP-based spam detection |
+| **Flower Prediction** | Classic ML classification project |
+| **Nike Shoe Card / Card Design** | Frontend UI/component design practice |
+
+**[Browse all repositories ↗](https://github.com/KhizarDoingProgramming?tab=repositories)**
+
+</details>
+
+<br>
+
+---
+
+<br>
+
+## `05 /` TECH ARSENAL
+
+**FRONTEND**
+`React` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS` `Tailwind`
+
+**BACKEND**
+`Node.js` `Express` `PHP`
+
+**DATABASE**
+`MySQL` `MongoDB` `Supabase` `Firebase`
+
+**AI / DATA**
+`Python` `NumPy` `Pandas` `scikit-learn` `TensorFlow`
+
+**SYSTEMS**
+`C++` `Assembly` `Linux`
+
+**TOOLS**
+`Git` `GitHub` `VS Code` `Figma` `Docker`
+
+<br>
+
+---
+
+<br>
+
+## `06 /` CURRENTLY BUILDING
+
+| PROJECT | FOCUS | STATUS |
+|---|---|:---:|
+| **KYZA** | AI assistant ecosystem (NOVA · ATLAS · HELIX · PRISM) | `BUILDING` |
+| **LUNO** | Russian / German language learning | `BUILDING` |
+| **MConnect** | Real-time messaging, TypeScript | `LIVE` |
+| **MSTFA** | Personal AI product ecosystem | `EVOLVING` |
+
+<br>
+
+---
+
+<br>
+
+## `07 /` GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cpp"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="tailwind"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="45" alt="threejs"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KhizarDoingProgramming&show_icons=true&hide_border=true&theme=transparent&title_color=87A96B&icon_color=87A96B&text_color=cfcfc4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhizarDoingProgramming&layout=compact&hide_border=true&theme=transparent&title_color=87A96B&text_color=cfcfc4" />
 
-<br/><br/>
+<br>
 
-<img src="https://img.shields.io/badge/Assembly-x86%2FNASM-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" height="32" alt="assembly"/>
-<img width="8"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="32" alt="sklearn"/>
-<img width="8"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="32" alt="pandas"/>
-<img width="8"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="32" alt="numpy"/>
-
-<br/><br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="45" alt="gitlab"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhizarDoingProgramming&hide_border=true&theme=transparent&ring=87A96B&fire=87A96B&currStreakLabel=87A96B" />
 
 </div>
 
+<br>
+
 ---
 
-### 📊 github stats
+<br>
+
+## `08 /` CONNECT
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KhizarDoingProgramming&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhizarDoingProgramming&theme=tokyonight&hide_border=true" height="165"/>
+**[GitHub ↗](https://github.com/KhizarDoingProgramming)**
 
-<br/>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhizarDoingProgramming&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
-### 🚀 featured builds
-
-| Project | Stack | What it does |
-|---|---|---|
-| 🛍️ [**Muzammil Lace Center**](https://github.com/KhizarDoingProgramming/Muzammil-Lace-Center) | PHP · MySQL · Bootstrap 5 | Full storefront w/ Easypaisa, JazzCash & COD checkout — built for a real family business |
-| ✋ **Holographic Hand Tracker** | Three.js · MediaPipe · GLSL | Real-time webcam hand-skeleton render w/ custom shaders — feels like sci-fi |
-| 💼 [**Ai-Resume-Screener**](https://github.com/KhizarDoingProgramming/Ai-Resume-Screener) | Python · HTML | Screens & ranks resumes automatically using ML-driven text analysis |
-| 🏦 [**Banking-system-asm**](https://github.com/KhizarDoingProgramming/Banking-system-asm) | x86 Assembly | Full banking ops (deposit/withdraw/balance) built from scratch in raw ASM |
-| 🧮 [**mini-cpu-simulator**](https://github.com/KhizarDoingProgramming/mini-cpu-simulator) | Assembly | Simulates CPU registers, instructions & memory ops — low-level computing, hands-on |
-| 🪐 [**Orbit-Graph-CPP-Code**](https://github.com/KhizarDoingProgramming/Orbit-Graph-CPP-Code) | C++ | Models celestial bodies & orbital paths as a directed/undirected graph |
-| 🐾 [**Pet-Simulator-Code-Game**](https://github.com/KhizarDoingProgramming/Pet-Simulator-Code-Game) | C++ (OOP) | Virtual pet sim built with object-oriented design for a uni project |
-| 💸 [**Loan-Predictor**](https://github.com/KhizarDoingProgramming/Loan-Predictor) | Python · scikit-learn · Tkinter | RandomForest-based loan approval predictor with a desktop GUI |
-| ❤️ [**heart-disease-predictor**](https://github.com/KhizarDoingProgramming/heart-disease-predictor) | Python · scikit-learn | Predicts heart disease risk from patient health data |
-| 📧 [**spam-email-classifier**](https://github.com/KhizarDoingProgramming/spam-email-classifier) | Python | NLP-driven spam vs. ham email classification |
-| 🌸 [**Flower-Prediction**](https://github.com/KhizarDoingProgramming/Flower-Prediction) | Python | Classic ML classifier predicting flower species from features |
-| 👟 [**Nike-Shoe-Card**](https://github.com/KhizarDoingProgramming/Nike-Shoe-Card) | HTML · CSS | Modern e-commerce product card w/ size & color switching, fully responsive |
-| 🎴 [**Card-Design**](https://github.com/KhizarDoingProgramming/Card-Design) | HTML · CSS · JS | Interactive product card with dynamic image/theme transitions |
-| 📚 [**CampusBook**](https://github.com/KhizarDoingProgramming/CampusBook) | PHP · MySQL | Campus-style book marketplace / listing platform |
-| ⚡ [**MSTFA-AI**](https://github.com/KhizarDoingProgramming/MSTFA-AI) · [**MConnect**](https://github.com/KhizarDoingProgramming/MConnect) · [**MUSTAFA-MOVES**](https://github.com/KhizarDoingProgramming/MUSTAFA-MOVES) | TypeScript | A trio of in-progress TS apps — AI tooling, connectivity & motion experiments |
-
----
-
-<div align="center">
-
-### 💭 currently vibing to this energy
-
-> *"Code first, sleep later, debug forever."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=12"/>
-
-⭐️ from [KhizarDoingProgramming](https://github.com/KhizarDoingProgramming)
+<sub>Building in public, one repository at a time.</sub>
 
 </div>
