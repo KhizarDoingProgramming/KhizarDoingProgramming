@@ -75,7 +75,7 @@ A few things that describe how I work:
 
 <table>
 <tr>
-<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://kyza.vercel.app&screenshot=true&meta=false&waitFor=5000" /></td>
+<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://kyza.vercel.app&screenshot=true&meta=false&waitFor=5000&embed=screenshot.url" /></td>
 <td valign="top">
 
 **AI ASSISTANT · ECOSYSTEM**
@@ -95,7 +95,7 @@ An AI assistant built as the center of a growing product suite rather than a sin
 
 <table>
 <tr>
-<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://mconnectweb.vercel.app&screenshot=true&meta=false&waitFor=5000" /></td>
+<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://mconnectweb.vercel.app&screenshot=true&meta=false&waitFor=5000&embed=screenshot.url" /></td>
 <td valign="top">
 
 **SOCIAL TECH PLATFORM**
@@ -117,7 +117,7 @@ A TypeScript-based real-time messaging platform, built with modular architecture
 
 <table>
 <tr>
-<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://mustav.vercel.app&screenshot=true&meta=false&waitFor=5000" /></td>
+<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://mustav.vercel.app&screenshot=true&meta=false&waitFor=5000&embed=screenshot.url" /></td>
 <td valign="top">
 
 **FULL-STACK E-COMMERCE**
@@ -137,7 +137,7 @@ A full-stack e-commerce build — store, catalog, and checkout flow built and sh
 
 <table>
 <tr>
-<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://lifeconvo.vercel.app&screenshot=true&meta=false&waitFor=5000" /></td>
+<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://lifeconvo.vercel.app&screenshot=true&meta=false&waitFor=5000&embed=screenshot.url" /></td>
 <td valign="top">
 
 **REAL-TIME COMMUNITY PLATFORM**
@@ -157,7 +157,7 @@ A real-time community platform built around live conversation rather than static
 
 <table>
 <tr>
-<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://khizex.web.app&screenshot=true&meta=false&waitFor=5000" /></td>
+<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://khizex.web.app&screenshot=true&meta=false&waitFor=5000&embed=screenshot.url" /></td>
 <td valign="top">
 
 **ARCHITECTURE & DESIGN AGENCY**
@@ -177,7 +177,7 @@ An agency-style site built for architecture & design — client-facing, presenta
 
 <table>
 <tr>
-<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://lunolearn.vercel.app&screenshot=true&meta=false&waitFor=5000" /></td>
+<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://lunolearn.vercel.app&screenshot=true&meta=false&waitFor=5000&embed=screenshot.url" /></td>
 <td valign="top">
 
 **LANGUAGE LEARNING**
@@ -197,7 +197,7 @@ A language-learning concept built around two languages I'm actually interested i
 
 <table>
 <tr>
-<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://mstfa-ai.vercel.app&screenshot=true&meta=false&waitFor=5000" /></td>
+<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://mstfa-ai.vercel.app&screenshot=true&meta=false&waitFor=5000&embed=screenshot.url" /></td>
 <td valign="top">
 
 **PERSONAL AI ECOSYSTEM**
