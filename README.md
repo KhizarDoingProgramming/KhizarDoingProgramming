@@ -75,7 +75,7 @@ A few things that describe how I work:
 
 <table>
 <tr>
-<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://kyza.vercel.app&screenshot=true&meta=false&waitFor=4000&embed=screenshot.url" /></td>
+<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://kyza.vercel.app&screenshot=true&meta=false&waitFor=10000&embed=screenshot.url" /></td>
 <td valign="top">
 
 **AI ASSISTANT · ECOSYSTEM**
@@ -117,7 +117,7 @@ A TypeScript-based real-time messaging platform, built with modular architecture
 
 <table>
 <tr>
-<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://mustav.vercel.app&screenshot=true&meta=false&waitFor=5000&embed=screenshot.url" /></td>
+<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://mustav.vercel.app&screenshot=true&meta=false&waitFor=10000&embed=screenshot.url" /></td>
 <td valign="top">
 
 **FULL-STACK E-COMMERCE**
@@ -137,7 +137,7 @@ A full-stack e-commerce build — store, catalog, and checkout flow built and sh
 
 <table>
 <tr>
-<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://lifeconvo.vercel.app&screenshot=true&meta=false&waitFor=5000&embed=screenshot.url" /></td>
+<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://lifeconvo.vercel.app&screenshot=true&meta=false&waitFor=10000&embed=screenshot.url" /></td>
 <td valign="top">
 
 **REAL-TIME COMMUNITY PLATFORM**
