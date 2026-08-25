@@ -9,9 +9,11 @@
 ### MUSTAFA KHIZAR
 `Pakistan · Computer Science · 2026`
 
+<sub><i>ものづくり — the art of making things.</i></sub>
+
 <br>
 
-<sub>00 — INTRO · 01 — WHO I AM · 02 — WHAT I BUILD · 03 — FLAGSHIP PROJECTS · 04 — OTHER EXPERIMENTS · 05 — TECH ARSENAL · 06 — CURRENTLY BUILDING · 07 — GITHUB ACTIVITY · 08 — CONNECT</sub>
+<sub>WHO I AM · WHAT I BUILD · FLAGSHIP PROJECTS · OTHER EXPERIMENTS · TECH ARSENAL · CURRENTLY BUILDING · GITHUB ACTIVITY · CONNECT</sub>
 
 </div>
 
@@ -21,7 +23,7 @@
 
 <br>
 
-## `01 /` WHO I AM
+## WHO I AM
 
 I'm Mustafa Khizar — a Computer Science student and full-stack developer who likes turning ideas into real, usable software. Most of what's below started as "what if I built this" and turned into something that actually runs.
 
@@ -40,7 +42,7 @@ A few things that describe how I work:
 
 <br>
 
-## `02 /` WHAT I BUILD
+## WHAT I BUILD
 
 <table>
 <tr>
@@ -67,34 +69,37 @@ A few things that describe how I work:
 
 <br>
 
-## `03 /` FLAGSHIP PROJECTS
+## FLAGSHIP PROJECTS
 
 <br>
 
-### `01 —` KYZA
+<table>
+<tr>
+<td width="40%"><img width="100%" src="https://image.thum.io/get/width/900/crop/700/https://kyza.vercel.app" /></td>
+<td valign="top">
+
 **AI ASSISTANT · ECOSYSTEM**
+### KYZA
 
 An AI assistant built as the center of a growing product suite rather than a single chatbot. KYZA is the umbrella — underneath it are focused sub-products: **NOVA** for open conversation and ideas, **ATLAS** for reasoning, **HELIX** for code, and **PRISM** for image generation. The visual identity runs on a deliberate palette — warm cream, sage green, muted stone blue, deep charcoal — the same one this README borrows.
 
-`STATUS` **BUILDING**
+`STATUS` **LIVE**
 
-**[SOURCE ↗](https://github.com/KhizarDoingProgramming)**
+**[VIEW LIVE ↗](https://kyza.vercel.app)** &nbsp;·&nbsp; **[SOURCE ↗](https://github.com/KhizarDoingProgramming/KYZA)**
 
-<br>
-
-### `02 —` LUNO
-**LANGUAGE LEARNING**
-
-A language-learning concept built around two languages I'm actually interested in — **Russian** and **German** — rather than a generic Duolingo clone. The goal is a learning experience that feels designed, not a form with flashcards bolted on.
-
-`STATUS` **BUILDING**
-
-**[SOURCE ↗](https://github.com/KhizarDoingProgramming)**
+</td>
+</tr>
+</table>
 
 <br>
 
-### `03 —` MCONNECT
-**REAL-TIME MESSAGING**
+<table>
+<tr>
+<td width="40%"><img width="100%" src="https://mustaffa.vercel.app/assets/images/mconnect-screen.png" /></td>
+<td valign="top">
+
+**SOCIAL TECH PLATFORM**
+### MCONNECT
 
 A TypeScript-based real-time messaging platform, built with modular architecture and deliberate frontend state management in mind — designed to scale past a toy chat app.
 
@@ -104,16 +109,109 @@ A TypeScript-based real-time messaging platform, built with modular architecture
 
 **[VIEW LIVE ↗](https://mconnectweb.vercel.app)** &nbsp;·&nbsp; **[SOURCE ↗](https://github.com/KhizarDoingProgramming/MConnect)**
 
+</td>
+</tr>
+</table>
+
 <br>
 
-### `04 —` MSTFA
-**PERSONAL AI ECOSYSTEM**
+<table>
+<tr>
+<td width="40%"><img width="100%" src="https://mustaffa.vercel.app/assets/images/mustav-screen.png" /></td>
+<td valign="top">
 
-A personal AI/product ecosystem project — the experimental ground where ideas that might later become part of KYZA get tested first.
+**FULL-STACK E-COMMERCE**
+### MUSTAV
+
+A full-stack e-commerce build — store, catalog, and checkout flow built and shipped end to end rather than left as a template.
+
+`STATUS` **LIVE**
+
+**[VIEW LIVE ↗](https://mustav.vercel.app)** &nbsp;·&nbsp; **[SOURCE ↗](https://github.com/KhizarDoingProgramming/MUSTAV)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="40%"><img width="100%" src="https://mustaffa.vercel.app/assets/images/lifeconvo-screen.png" /></td>
+<td valign="top">
+
+**REAL-TIME COMMUNITY PLATFORM**
+### LIFECONVO
+
+A real-time community platform built around live conversation rather than static posts.
+
+`STATUS` **LIVE**
+
+**[VIEW LIVE ↗](https://lifeconvo.vercel.app)** &nbsp;·&nbsp; **[SOURCE ↗](https://github.com/KhizarDoingProgramming/LIFE-CONVO)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="40%"><img width="100%" src="https://image.thum.io/get/width/900/crop/700/https://khizex.web.app" /></td>
+<td valign="top">
+
+**ARCHITECTURE & DESIGN AGENCY**
+### KHIZEX
+
+An agency-style site built for architecture & design — client-facing, presentation-first, a different register from the app-heavy work above.
+
+`STATUS` **LIVE**
+
+**[VIEW LIVE ↗](https://khizex.web.app)** &nbsp;·&nbsp; **[SOURCE ↗](https://github.com/KhizarDoingProgramming/KHIZEX)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="40%" valign="top" align="center"><sub><i>no live build yet</i></sub></td>
+<td valign="top">
+
+**LANGUAGE LEARNING**
+### LUNO
+
+A language-learning concept built around two languages I'm actually interested in — **Russian** and **German** — rather than a generic Duolingo clone. The goal is a learning experience that feels designed, not a form with flashcards bolted on.
+
+`STATUS` **BUILDING**
+
+**[SOURCE ↗](https://github.com/KhizarDoingProgramming)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="40%" valign="top" align="center"><sub><i>no live build yet</i></sub></td>
+<td valign="top">
+
+**PERSONAL AI ECOSYSTEM**
+### MSTFA
+
+The experimental ground where ideas that might later become part of KYZA get tested first.
 
 `STATUS` **EVOLVING**
 
 **[SOURCE ↗](https://github.com/KhizarDoingProgramming/MSTFA-AI)**
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -121,7 +219,7 @@ A personal AI/product ecosystem project — the experimental ground where ideas 
 
 <br>
 
-## `04 /` OTHER EXPERIMENTS
+## OTHER EXPERIMENTS
 
 Not every project needs a case study. These are smaller, but real — full list and source lives in the repositories tab.
 
@@ -154,7 +252,7 @@ Not every project needs a case study. These are smaller, but real — full list 
 
 <br>
 
-## `05 /` TECH ARSENAL
+## TECH ARSENAL
 
 **FRONTEND**
 `React` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS` `Tailwind`
@@ -180,7 +278,7 @@ Not every project needs a case study. These are smaller, but real — full list 
 
 <br>
 
-## `06 /` CURRENTLY BUILDING
+## CURRENTLY BUILDING
 
 | PROJECT | FOCUS | STATUS |
 |---|---|:---:|
@@ -195,7 +293,7 @@ Not every project needs a case study. These are smaller, but real — full list 
 
 <br>
 
-## `07 /` GITHUB ACTIVITY
+## GITHUB ACTIVITY
 
 <div align="center">
 
@@ -206,7 +304,16 @@ Not every project needs a case study. These are smaller, but real — full list 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhizarDoingProgramming&hide_border=true&theme=transparent&ring=87A96B&fire=87A96B&currStreakLabel=87A96B" />
 
+<br><br>
+
+<img width="100%" src="https://raw.githubusercontent.com/KhizarDoingProgramming/KhizarDoingProgramming/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+
+<sub>animated version of the contribution graph above — runs on a scheduled GitHub Action, see setup note below</sub>
+
 </div>
+
+> [!NOTE]
+> The snake animation needs a one-time GitHub Action added to this repo (`Platane/snk`) that regenerates `output/github-contribution-grid-snake.svg` on a schedule. Until that workflow is added, this image won't render — remove the block above if you'd rather skip it.
 
 <br>
 
@@ -214,14 +321,26 @@ Not every project needs a case study. These are smaller, but real — full list 
 
 <br>
 
-## `08 /` CONNECT
+## CONNECT
 
 <div align="center">
 
-**[GitHub ↗](https://github.com/KhizarDoingProgramming)**
+**[GitHub ↗](https://github.com/KhizarDoingProgramming)** &nbsp;·&nbsp; **[LinkedIn ↗](https://www.linkedin.com/in/mustafa-khizar/)** &nbsp;·&nbsp; **[Instagram ↗](https://www.instagram.com/khiizeee/)** &nbsp;·&nbsp; **[Portfolio ↗](https://mustaffa.vercel.app)**
+
+**[gmkhizar9@gmail.com](mailto:gmkhizar9@gmail.com)**
+
+**[Download CV ↗](https://mustaffa.vercel.app/assets/pdf/Mustafa_Khizar_CV.pdf)**
+
+`Islamabad, Pakistan`
 
 <br>
 
 <sub>Building in public, one repository at a time.</sub>
 
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1A1A1A&section=footer" width="100%" />
 </div>
