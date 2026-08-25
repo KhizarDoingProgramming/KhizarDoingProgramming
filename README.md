@@ -167,7 +167,7 @@ An agency-style site built for architecture & design — client-facing, presenta
 
 `STATUS` **LIVE**
 
-**[VIEW LIVE ↗](https://khizex.web.app)** &nbsp;·&nbsp; **[SOURCE ↗](https://github.com/KhizarDoingProgramming/KHIZEX)**
+**[VIEW LIVE ↗](https://khizex.web.app)** &nbsp;·&nbsp; **[SOURCE ↗](https://github.com/KhizarDoingProgramming/khizex-web)**
 
 </td>
 </tr>
@@ -185,9 +185,9 @@ An agency-style site built for architecture & design — client-facing, presenta
 
 A language-learning concept built around two languages I'm actually interested in — **Russian** and **German** — rather than a generic Duolingo clone. The goal is a learning experience that feels designed, not a form with flashcards bolted on.
 
-`STATUS` **BUILDING**
+`STATUS` **LIVE**
 
-**[SOURCE ↗](https://github.com/KhizarDoingProgramming)**
+**[VIEW LIVE ↗](https://lunolearn.vercel.app)** &nbsp;·&nbsp; **[SOURCE ↗](https://github.com/KhizarDoingProgramming/LUNO)**
 
 </td>
 </tr>
@@ -205,7 +205,7 @@ A language-learning concept built around two languages I'm actually interested i
 
 The experimental ground where ideas that might later become part of KYZA get tested first.
 
-`STATUS` **EVOLVING**
+`STATUS` **PAUSED**
 
 **[SOURCE ↗](https://github.com/KhizarDoingProgramming/MSTFA-AI)**
 
@@ -282,8 +282,8 @@ Not every project needs a case study. These are smaller, but real — full list 
 
 | PROJECT | FOCUS | STATUS |
 |---|---|:---:|
-| **KYZA** | AI assistant ecosystem (NOVA · ATLAS · HELIX · PRISM) | `BUILDING` |
-| **LUNO** | Russian / German language learning | `BUILDING` |
+| **KYZA** | AI assistant ecosystem (NOVA · ATLAS · HELIX · PRISM) | `LIVE` |
+| **LUNO** | Russian / German language learning | `LIVE` |
 | **MConnect** | Real-time messaging, TypeScript | `LIVE` |
 | **MSTFA** | Personal AI product ecosystem | `EVOLVING` |
 
