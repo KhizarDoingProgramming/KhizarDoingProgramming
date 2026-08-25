@@ -285,7 +285,7 @@ Not every project needs a case study. These are smaller, but real — full list 
 | **KYZA** | AI assistant ecosystem (NOVA · ATLAS · HELIX · PRISM) | `LIVE` |
 | **LUNO** | Russian / German language learning | `LIVE` |
 | **MConnect** | Real-time messaging, TypeScript | `LIVE` |
-| **MSTFA** | Personal AI product ecosystem | `EVOLVING` |
+| **MSTFA** | Personal AI product ecosystem | `PAUSED` |
 
 <br>
 
