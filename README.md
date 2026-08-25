@@ -75,7 +75,7 @@ A few things that describe how I work:
 
 <table>
 <tr>
-<td width="40%"><img width="100%" src="https://image.thum.io/get/width/900/crop/700/https://kyza.vercel.app" /></td>
+<td width="40%"><img width="100%" src="https://image.thum.io/get/wait/5/width/900/crop/700/https://kyza.vercel.app" /></td>
 <td valign="top">
 
 **AI ASSISTANT · ECOSYSTEM**
@@ -157,7 +157,7 @@ A real-time community platform built around live conversation rather than static
 
 <table>
 <tr>
-<td width="40%"><img width="100%" src="https://image.thum.io/get/width/900/crop/700/https://khizex.web.app" /></td>
+<td width="40%"><img width="100%" src="https://image.thum.io/get/wait/5/width/900/crop/700/https://khizex.web.app" /></td>
 <td valign="top">
 
 **ARCHITECTURE & DESIGN AGENCY**
@@ -177,7 +177,7 @@ An agency-style site built for architecture & design — client-facing, presenta
 
 <table>
 <tr>
-<td width="40%"><img width="100%" src="https://image.thum.io/get/width/900/crop/700/https://lunolearn.vercel.app" /></td>
+<td width="40%"><img width="100%" src="https://image.thum.io/get/wait/5/width/900/crop/700/https://lunolearn.vercel.app" /></td>
 <td valign="top">
 
 **LANGUAGE LEARNING**
@@ -197,7 +197,7 @@ A language-learning concept built around two languages I'm actually interested i
 
 <table>
 <tr>
-<td width="40%"><img width="100%" src="https://image.thum.io/get/width/900/crop/700/https://mstfa-ai.vercel.app" /></td>
+<td width="40%"><img width="100%" src="https://image.thum.io/get/wait/5/width/900/crop/700/https://mstfa-ai.vercel.app" /></td>
 <td valign="top">
 
 **PERSONAL AI ECOSYSTEM**
