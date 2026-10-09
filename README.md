@@ -71,6 +71,27 @@ A few things that describe how I work:
 
 ## FLAGSHIP PROJECTS
 
+ <br>
+
+<table>
+<tr>
+<td width="40%"><img width="100%" src="https://mustaffa.vercel.app/assets/images/klyz-screen.webp" /></td>
+<td valign="top">
+
+**WORKFLOW AUTOMATION · ECOSYSTEM**
+
+### KLYZ
+
+An automation platform built to turn ideas into executable workflows. KLYZ brings together visual workflow building, AI-powered decision-making, and connected services in one cohesive system. From webhooks and data transformation to intelligent classification, conditional branching, and automated actions across integrations like GitHub, Google Sheets, Notion, Slack, and Gmail — KLYZ makes complex workflows easier to build, run, and manage.
+
+`STATUS` **LIVE**
+
+**[VIEW LIVE ↗](https://klyz.vercel.app)**  ·  **[SOURCE ↗](https://github.com/KhizarDoingProgramming/KLYZ)**
+
+</td>
+</tr>
+</table>
+
 <br>
 
 <table>
