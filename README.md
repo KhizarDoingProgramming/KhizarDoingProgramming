@@ -198,7 +198,7 @@ An agency-style site built for architecture & design — client-facing, presenta
 
 <table>
 <tr>
-<td width="40%"><img width="100%" src="https://api.microlink.io/?url=https://lunolearn.vercel.app&screenshot=true&meta=false&waitFor=5000&embed=screenshot.url" /></td>
+<td width="40%"><img width="100%" src="https://mustaffa.vercel.app/assets/images/luno-screen.webp" /></td>
 <td valign="top">
 
 **LANGUAGE LEARNING**
